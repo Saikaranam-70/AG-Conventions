@@ -6,6 +6,7 @@ import { cn } from '@/lib/utils';
 
 export const metadata: Metadata = {
   title: 'AG Convention Center',
+  
   description: 'Premier convention and event destination.',
 };
 
@@ -28,6 +29,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
+
       <body className={cn("font-body antialiased", fontBody.variable, fontHeadline.variable)}>
         {children}
         <Toaster />
