@@ -5,7 +5,7 @@ import { Poppins, Playfair_Display } from 'next/font/google';
 import { cn } from '@/lib/utils';
 
 export const metadata: Metadata = {
-  title: 'Bharat Convention Center',
+  title: 'AG Convention Center',
   description: 'Premier convention and event destination.',
 };
 
