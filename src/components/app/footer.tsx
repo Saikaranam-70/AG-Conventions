@@ -41,7 +41,7 @@ export function AppFooter() {
         </div>
       </div>
       <div className="container mx-auto px-4 mt-8 border-t border-border/20 pt-6 text-center text-sm text-muted-foreground">
-        <p>© {new Date().getFullYear()} Bharat Convention Center. All Rights Reserved.</p>
+        <p>© {new Date().getFullYear()} AG Convention Center. All Rights Reserved.</p>
       </div>
     </footer>
   )
