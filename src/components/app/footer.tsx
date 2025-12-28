@@ -8,7 +8,7 @@ export function AppFooter() {
         <div className="flex flex-col items-center md:items-start text-center md:text-left">
           <Link href="/" className="flex items-center gap-2 mb-4" prefetch={false}>
             <MountainIcon className="h-8 w-8 text-primary" />
-            <span className="font-semibold font-headline text-2xl">Bharat CC</span>
+            <span className="font-semibold font-headline text-2xl">AG Conventions</span>
           </Link>
           <p className="text-sm max-w-xs text-muted-foreground">
             The premier destination for world-class conferences, exhibitions, and celebrations.
@@ -34,8 +34,8 @@ export function AppFooter() {
         <div className="space-y-2 text-center md:text-left">
             <h3 className="font-headline text-lg font-semibold">Contact Info</h3>
             <ul className="space-y-2 text-muted-foreground">
-                <li className="flex items-center justify-center md:justify-start gap-2"><MapPin className="h-4 w-4 text-primary" /> 123 Event Avenue, New Delhi, India</li>
-                <li className="flex items-center justify-center md:justify-start gap-2"><Mail className="h-4 w-4 text-primary" /> <a href="mailto:contact@bharatcc.com" className="hover:text-primary">contact@bharatcc.com</a></li>
+                <li className="flex items-center justify-center md:justify-start gap-2"><MapPin className="h-4 w-4 text-primary" /> W55X+H53, Penuguduru, Andhra Pradesh 533016</li>
+                <li className="flex items-center justify-center md:justify-start gap-2"><Mail className="h-4 w-4 text-primary" /> <a href="mailto:contact@bharatcc.com" className="hover:text-primary">contact@agconventions.com</a></li>
                 <li className="flex items-center justify-center md:justify-start gap-2"><Phone className="h-4 w-4 text-primary" /> <a href="tel:+911123456789" className="hover:text-primary">+91 11 2345 6789</a></li>
             </ul>
         </div>
