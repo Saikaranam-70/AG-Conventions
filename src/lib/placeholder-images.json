@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A grand view of a modern convention center entrance.",
+      "imageUrl": "https://images.unsplash.com/photo-1624800873328-129498d2847a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb252ZW50aW9uJTIwY2VudGVyfGVufDB8fHx8MTc2NjkxOTcwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "convention center"
+    },
+    {
+      "id": "hall-maharaja",
+      "description": "The grand Maharaja Hall set up for a conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1572177147505-c44e97033921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29uZmVyZW5jZSUyMGhhbGx8ZW58MHx8fHwxNzY2ODMyNTAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "conference hall"
+    },
+    {
+      "id": "hall-rani",
+      "description": "The elegant Rani Hall set up for a banquet.",
+      "imageUrl": "https://images.unsplash.com/photo-1624763149686-1893acf73092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW5xdWV0JTIwaGFsbHxlbnwwfHx8fDE3NjY5MTk3MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "banquet hall"
+    },
+    {
+      "id": "hall-samrat",
+      "description": "The spacious Samrat Hall configured for an exhibition.",
+      "imageUrl": "https://images.unsplash.com/photo-1719540295991-857446b3e7ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxleGhpYml0aW9uJTIwc3BhY2V8ZW58MHx8fHwxNzY2OTE5NzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "exhibition space"
+    },
+    {
+      "id": "hall-lotus",
+      "description": "An intimate meeting room with a large window.",
+      "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMG1lZXRpbmclMjByb29tfGVufDB8fHx8MTc2Njk5MjgyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "small meeting room"
+    },
+    {
+      "id": "hall-skyline",
+      "description": "A beautiful rooftop terrace overlooking a city skyline at sunset..",
+      "imageUrl": "https://images.unsplash.com/photo-1624800873328-129498d2847a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjb252ZW50aW9uJTIwY2VudGVyfGVufDB8fHx8MTc2NjkxOTcwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rooftop terrace"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Portrait of a smiling professional man.",
+      "imageUrl": "https://images.unsplash.com/photo-1531123414780-f74242c2b052?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY2ODY5ODYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Portrait of a smiling professional woman.",
+      "imageUrl": "https://images.unsplash.com/photo-1531123414780-f74242c2b052?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY2ODY5ODYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Portrait of a person at a corporate event.",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjY4Njk4NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "Portrait of a confident woman with curly hair.",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTc2Njk5Mjk0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "testimonial-5",
+      "description": "Portrait of a young man with glasses smiling.",
+      "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG1hbnxlbnwwfHx8fDE3NjY5OTMwMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    }
+  ]
+}
